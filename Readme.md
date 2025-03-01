@@ -1,0 +1,1 @@
+#Initialized a investment calculator
